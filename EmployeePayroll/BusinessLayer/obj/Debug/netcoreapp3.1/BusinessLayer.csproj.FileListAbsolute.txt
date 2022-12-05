@@ -1,0 +1,15 @@
+F:\BackEnd\EmployeePayroll\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+F:\BackEnd\EmployeePayroll\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\EmployeePayroll\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+F:\BackEnd\EmployeePayroll\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+F:\BackEnd\EmployeePayroll\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\BackEnd\EmployeePayroll\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+F:\BackEnd\EmployeePayroll\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+F:\BackEnd\EmployeePayroll\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+F:\BackEnd\EmployeePayroll\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+F:\BackEnd\EmployeePayroll\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+F:\BackEnd\EmployeePayroll\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+F:\BackEnd\EmployeePayroll\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+F:\BackEnd\EmployeePayroll\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+F:\BackEnd\EmployeePayroll\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+F:\BackEnd\EmployeePayroll\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
